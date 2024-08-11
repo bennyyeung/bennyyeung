@@ -2,7 +2,7 @@
 
 - Hi 👋, I’m Benny. I am a web developer based in the UK with over a decade of experience in architectural and graphic design. Recently, I’ve been diving into web application technologies and expanding my skill set. At heart, I’m a front-end web developer with a strong design sensibility and a growing proficiency in all areas of the stack, including frontend, backend, databases, and cloud technologies, as I work towards becoming a software engineer.
 - ‍I’m looking to collaborate on Web Applications Projects
-- 📫 Contact me: techlab.panda@outlook.com
+- 📫 Contact me: quantum_goose@outlook.com
 
 ### Technology Stack
 
