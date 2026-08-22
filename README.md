@@ -1,7 +1,6 @@
 ### About Me
 
-- Hi 👋, I’m Benny. I am a web developer based in the UK with over a decade of experience in architectural and graphic design. Recently, I’ve been diving into web application technologies and expanding my skill set. At heart, I’m a front-end web developer with a strong design sensibility and a growing proficiency in all areas of the stack, including frontend, backend, databases, and cloud technologies, as I work towards becoming a software engineer.
-- ‍I’m looking to collaborate on Web Applications Projects
+- Hi 👋, I’m Benny. I’m a developer based in the UK who loves building things and making them better. Always looking to collaborate on app projects - whether web, mobile, or anything in between.
 - 📫 Contact me: quantum_goose@outlook.com
 
 ### Technology Stack
